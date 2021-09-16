@@ -148,7 +148,10 @@ hr {
 }
 
 .footer-link {
-  margin-right: 30px;
+  font-size: 1.25rem;
+  text-align: center;
+  margin: 0 auto;
+  padding-right: 30px;
   color: #11999E;
   text-decoration: none;
 }
@@ -158,6 +161,7 @@ hr {
 }
 
 .copyright {
+  text-align: center;
   margin: 0 auto;
   color: #EAF6F6;
   padding-top: 25px;
